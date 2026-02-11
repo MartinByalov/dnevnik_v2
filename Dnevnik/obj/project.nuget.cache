@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9RmTE7xrI4=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\dnevnik\\Dnevnik\\Dnevnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin Byalov\\.nuget\\packages\\system.data.oledb\\10.0.2\\system.data.oledb.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
